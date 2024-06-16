@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello, I'm Gleb👋
 
-<!--
-**GlebKurop/GlebKurop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🌟
 
-Here are some ideas to get you started:
+## My skills:
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Python Libraries:
+- **TeleBot**
+- **python-telegram-bot**
+- **Telethon**
+- **aiogram**
+- **requests**
+- **BeautifulSoup4**
+- **lxml**
+
+## Gleb's GitHub Stats:
+![Gleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlebKurop&show_icons=true&theme=radical)
+
